@@ -1,5 +1,5 @@
 ## Hi there 👋
-AP COMPUTER SCIENCE 
+Computer Science (Datamatiker) student  
 <!--
 **AdelaSeferovic/AdelaSeferovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
