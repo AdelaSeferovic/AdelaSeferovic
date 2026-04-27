@@ -57,5 +57,6 @@ to deepen my understanding of how frontend and backend communicate.
 ## Contact
 
 Feel free to reach out if you have any opportunities or questions!
+- Email : omerovicseferovicadela@gmail.com
 
 - GitHub: [@AdelaSeferovic](https://github.com/AdelaSeferovic)
